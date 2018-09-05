@@ -17,15 +17,13 @@ Table of Contents
 Class 1 session
 -------------
 
-### Reporting an Academic Computer Fault
-
-Please let ali_dot_owayid_at_humber_dot_ca know the station identifier (e.g. J209A-N-011)
-and the problem such that he can submit a service request, if the same problem
-persists - ask for a ticket number and let me know what it is.
-
 ### Short video and introductions
 
 [Reflective Learning](https://www.youtube.com/watch?v=kM-DXWEns2Y&t=28s)
+
+### Blackboard
+
+[Blackboard](https://learn.humber.ca)
 
 ### Lynda.com
 
@@ -48,3 +46,14 @@ persists - ask for a ticket number and let me know what it is.
     access is not cut off when you graduate.
 
 9.  Watch: [Learning C](https://www.lynda.com/C-tutorials/Learning-C/718661-2.html)
+
+### Accessing your H:/ drive from off campus
+
+Visit [myfiles.humber.ca](myfiles.humber.ca)
+
+### Reporting an Academic Computer Fault
+
+Please let ali_dot_owayid_at_humber_dot_ca know the station identifier (e.g. J209A-N-011)
+and the problem such that he can submit a service request, if the same problem
+persists - ask for a ticket number and let me know what it is.
+
