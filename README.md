@@ -64,5 +64,6 @@ persists - ask for a ticket number and let me know what it is.
 Class 2 session
 -------------
 
-### Course outline, Lynda.com
+### Course outline, critical path, Lynda.com, myfiles, computer 
+### https://visualstudio.microsoft.com/vs/older-downloads/
 
