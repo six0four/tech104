@@ -57,3 +57,12 @@ Please let ali_dot_owayid_at_humber_dot_ca know the station identifier (e.g. J20
 and the problem such that he can submit a service request, if the same problem
 persists - ask for a ticket number and let me know what it is.
 
+### Program Skeleton
+
+### Lab 0, Lab 1
+
+Class 2 session
+-------------
+
+### Course outline, Lynda.com
+
